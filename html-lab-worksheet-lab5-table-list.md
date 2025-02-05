@@ -73,3 +73,5 @@
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
 
+<img width="1470" alt="Screenshot 2568-02-06 at 00 34 25" src="https://github.com/user-attachments/assets/a796ead3-efe8-499d-8fd1-edf6b2d19740" />
+![Uploading Screenshot 2568-02-06 at 00.34.35.png…]()
