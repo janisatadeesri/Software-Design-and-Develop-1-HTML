@@ -33,6 +33,49 @@
 ```html
 [วางโค้ด HTML ที่นี่]
 ```
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello</title>
+</head>
+<body>
+    <h2>สวัสดีจ้า</h2>
+    <h1>ฉันชื่อ นางสางจณิศตา ดีศรี ชื่อเล่นจอนอ</h1>
+    <hr>
+    <h2>ประวัติการศึกษา</h2>
+    <p>
+        <strong>ระดับปฐมศึกษา</strong> 
+        โรงเรียนวัดพลงช้างเผือก
+        <br>
+        <strong>ระดับมัธยมศึกษา</strong> 
+        โรงเรียนแกลง''วิทยสถาวร''
+        <br>
+        <strong>ระดับการศึกษาปริญญาตรี</strong> 
+        คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+    </p>
+    <hr>
+    <h2>งานอดิเรกของผม</h2>
+    <p>
+        ฟังเพลง <br>
+        ดูหนัง <br>
+        เต้น <br>
+        เล่นเกม <br>
+        
+    </p>
+    <hr>
+    <h2>เป้าหมายในอนาคตของฉัน</h2>
+    <p>
+        เป็นครูที่สอนนักเรียนและทำธุรกิจส่วนตัว
+        <pre>
+            
+        </pre>
+    </p>
+
+</body>
+</html>
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
 <img width="1470" alt="Screenshot 2568-02-06 at 00 32 15" src="https://github.com/user-attachments/assets/9b628db3-190c-4c0d-abca-4e43b078f579" />
