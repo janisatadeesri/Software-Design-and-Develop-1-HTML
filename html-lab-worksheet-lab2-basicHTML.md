@@ -40,5 +40,7 @@
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
 
+<img width="1470" alt="Screenshot 2568-02-06 at 00 30 51" src="https://github.com/user-attachments/assets/05bd72c3-a472-494f-a919-79de5a292680" />
+
 
 
