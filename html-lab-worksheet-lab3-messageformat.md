@@ -35,5 +35,6 @@
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+<img width="1470" alt="Screenshot 2568-02-06 at 00 32 15" src="https://github.com/user-attachments/assets/9b628db3-190c-4c0d-abca-4e43b078f579" />
 
 
