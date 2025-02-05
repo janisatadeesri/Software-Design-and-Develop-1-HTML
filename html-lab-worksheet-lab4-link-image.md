@@ -165,10 +165,84 @@
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
-[วางโค้ด HTML ที่นี่]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camera</title>
+</head>
+<body>
+    <nav id="nav">
+        <img src="./image/logo.png" alt="logo" width="50" height="50">
+        <a href="index.html">หน้าหลัก</a>
+        <a href="pages/about.html">เกี่ยวกับเรา</a>
+        <a href="pages/contact.html">ติดต่อเรา</a>
+    </nav>
+    <hr>
+    <section>
+        <h1>Gallery</h1>
+        <figure>
+            <a href="images/gallery/product1.jpeg">
+                <img src="image/product/product1.jpeg" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>ชื่อสินค้า:</strong>
+                    เสื้อครอปสีขาว
+                </p>
+                <p>
+                    <strong>ราคา:</strong>
+                    ตัวละ 150 บาท
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product2.jpeg">
+                <img src="image/product/product2.jpeg" alt="product2" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>ชื่อสินค้า:</strong>
+                    เสื้อปาดไหล่สีฟ้า
+                </p>
+                <p>
+                    <strong>ราคา:</strong>
+                    ตัวละ 100 บาท
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product3.jpeg">
+                <img src="image/product/product3.jpeg" alt="product3" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>ชื่อสินค้า:</strong>
+                    เสื้อปาดไหล่สีขาวแขนขาว
+                </p>
+                <p>
+                    <strong>ราคา:</strong>
+                    ตัวละ 200 บาท
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            
+        <hr>
+    </section>
+    
+    <a href="#nav">กลับด้านบน</a>
+</body>
+</html>
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
 
+<img width="1470" alt="Screenshot 2568-02-06 at 00 26 48" src="https://github.com/user-attachments/assets/b4a65f83-3096-4670-b649-8b1f85eaa254" />
 
+<img width="1470" alt="Screenshot 2568-02-06 at 00 26 53" src="https://github.com/user-attachments/assets/2d92ce57-865a-4b05-aaa6-9c4bcef11d29" />
 
